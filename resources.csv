@@ -1,0 +1,4 @@
+ResourceName,UsageHours,HourlyRate
+EC2 Instance,50,0.024
+RDS Database,100,0.1
+S3 Storage,20,0.005
